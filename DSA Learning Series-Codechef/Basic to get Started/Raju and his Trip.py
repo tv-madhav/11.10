@@ -14,7 +14,7 @@ YES
 Sample Input 2:
 16
 Sample Output 2:
-NO
+NO)
 
 Solution:
 #tvm
@@ -25,4 +25,3 @@ if (N%5==0  or N%6==0 ):
 else:
     print("NO")
     
-#
